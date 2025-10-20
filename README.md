@@ -5,7 +5,7 @@ My learning journey through Maestro AI Software Engineering coursework and other
 ### Week 1: Core foundations and functions
 ### Topics covered
 - print function and comments
--
+- variables, types, & strings
 -
 
 ### Key learnings
