@@ -4,9 +4,9 @@ example:
 name = 🐍
 age = 36
 print(f"My name is {name}, I'm {age} years old") 
-### Output: My name is 🐍, I'm 36 years old
+**Output: My name is 🐍, I'm 36 years old**
 
 hours_worked = 8
 hourly_wage = 25
 print(f"Today I earned ${hours_worked * hourly_wage}")
-### Output: Today I earned $200
+**Output: Today I earned $200**
