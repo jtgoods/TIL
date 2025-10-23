@@ -9,13 +9,13 @@ else:
 
 this will print "x is NOT bigger than 3", because the conditional after if has not been met. 
 
-conditional operators are as follows: 
-== is “equal to” 
-!= is “not equal to” 
-< is “less than” 
-/> is “greater than"  
-<= is “less than or equal to” 
->= is “greater than or equal to” 
+conditional operators are as follows:  
+== is “equal to”  
+!= is “not equal to”  
+< is “less than”  
+\> is “greater than"   
+<= is “less than or equal to”  
+\>= is “greater than or equal to”  
 
 an example with input: 
 age = int(input("Enter your age")) 
