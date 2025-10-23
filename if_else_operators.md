@@ -16,3 +16,10 @@ conditional operators are as follows:
 > is “greater than”
 <= is “less than or equal to”
 >= is “greater than or equal to”
+
+an example with input:
+age = int(input("Enter your age"))
+if age >= 18:
+    print(f"you are an adult")
+else:
+    print(f"you are a minor")
