@@ -13,7 +13,7 @@ conditional operators are as follows:
 == is “equal to” 
 != is “not equal to” 
 < is “less than” 
-> is “greater than"  
+/> is “greater than"  
 <= is “less than or equal to” 
 >= is “greater than or equal to” 
 
