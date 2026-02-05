@@ -6,3 +6,7 @@ My learning journey through Maestro AI Software Engineering coursework and other
 
 ### 10/23/2025 - beginning of week 2 coursework with Maestro
 - learned about if/else conditionals and operators
+
+### 02/04/2026 - beginning of week 2 coursework, second term with Maestro
+- learned about stack operations and push/pull
+- 
